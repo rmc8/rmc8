@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **rmc8/rmc8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Github Status
+## About
+
+My name is K. I work at Amazon as a risk manager. Python is my go-to language, while TypeScript and SvelteKit are used for website development. I am currently learning app development with Flutter, with plans to build a Bluesky client app.
+
+## External Pages
+
+* [Bluesky(@k.rmc-8.com)](https://rmc-8.com/)
+* [X(@rmc_km)](https://twitter.com/rmc_km)
+* [Web Site](https://rmc-8.com)
+
+## Github Status
 
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rmc8&layout=compact)
 
