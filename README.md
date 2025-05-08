@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About
 
-My name is K. I work at Amazon as a risk manager. Python is my go-to language, while TypeScript and SvelteKit are used for website development. I am currently learning app development with Flutter, with plans to build a Bluesky client app.
+My name is K. I work at Amazon as a risk manager. Python is my go-to language, while TypeScript and SvelteKit are used for website development.
 
 ## External Pages
 
