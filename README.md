@@ -21,7 +21,7 @@ My name is K. I work at Amazon as a risk manager. Python is my go-to language, w
 
 ## External Pages
 
-* [Bluesky(@k.rmc-8.com)](https://rmc-8.com/)
+* [Bluesky(@k.rmc-8.com)](https://k.rmc-8.com/)
 * [X(@rmc_km)](https://twitter.com/rmc_km)
 * [Web Site](https://rmc-8.com)
 
