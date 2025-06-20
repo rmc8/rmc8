@@ -8,23 +8,23 @@ I'm a **Risk Manager at Amazon** based in **Tokyo**, passionate about programmin
 
 ### 🍱 **Gourmet Journey JP** _(Svelte)_
 
-A comprehensive Japanese regional gourmet management application covering all 47 prefectures' local specialties and mail-order system.
+A comprehensive Japanese regional gourmet management application featuring all 47 prefectures' local specialties with advanced search, filtering, and integrated mail-order system for authentic regional products.
 
-### 🦋 **moodeSky** _(Dart/Flutter)_
+### 🦋 **moodeSky** _(Tauri + Svelte)_
 
-A feature-rich Bluesky client application with enhanced user experience and modern mobile interface.
+A modern cross-platform Bluesky client application built with Rust backend and Svelte frontend, featuring native performance, enhanced timeline management, custom themes, offline capabilities, and responsive design for desktop and mobile experiences.
 
 ### 📝 **Astro Blog** _(Astro)_
 
-Personal multilingual blog platform supporting Japanese, English, and Korean content with modern static site generation.
+Personal multilingual blog platform supporting Japanese, English, and Korean content with modern static site generation, automated SEO optimization, and responsive design across all devices.
 
 ### 🦀 **Raspberry Pi IoT Projects** _(Rust)_
 
-Experimenting with IoT development using Rust on Raspberry Pi for learning systems programming.
+Exploring IoT development with Rust on Raspberry Pi, focusing on sensor data collection, real-time monitoring systems, and cross-compilation techniques for embedded systems programming.
 
 ## 💻 Technical Expertise
 
-### **Primary Languages**
+### Primary Languages
 
 ```text
 Python      ████████████░  59% (49 repos, 370KB codebase)
@@ -69,13 +69,13 @@ Rust        █░░░░░░░░░░░░   2% (systems programming le
 
 ## 📊 Recent Development Activity
 
-**2025 Q2 Focus:**
+**2025 Q3 Focus:**
 
-- 🍱 Continuous development of Gourmet Journey JP application
-- 🦋 Enhanced moodeSky client with advanced Bluesky integration
-- 📝 Blog platform optimization with Astro framework
-- 🤖 MCP server development and LangChain experimentation
-- 🦀 Rust CLI tools and systems programming practice
+- 🍱 Advanced features for Gourmet Journey JP with enhanced UX
+- 🦋 moodeSky desktop client development with Rust/Tauri and advanced social features
+- 📝 Multilingual content expansion for Astro blog platform
+- 🤖 Advanced MCP server integrations and AI workflow automation
+- 🦀 Rust systems programming and cross-platform CLI development
 
 ## 🛠️ Development Philosophy
 
